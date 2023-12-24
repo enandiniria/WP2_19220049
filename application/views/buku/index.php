@@ -20,8 +20,8 @@
                             <th scope="col">Tahun Terbit</th>
                             <th scope="col">ISBN</th>
                             <th scope="col">Stok</th>
-                            <th scope="col">DiPinjam</th>
-                            <th scope="col">DiBooking</th>
+                            <th scope="col">Di Pinjam</th>
+                            <th scope="col">Di Booking</th>
                             <th scope="col">Gambar</th>
                             <th scope="col">Pilihan</th>
                         </tr>
