@@ -128,5 +128,12 @@ class Autentifikasi extends CI_Controller
             redirect('autentifikasi');
         }
     }
+
+    public function logout()
+    {
+        $item = array('email', 'role_id');
+        $this->session->unset_userdata($item);
+        redirect('autentifikasi');
+    }
 }
 	
